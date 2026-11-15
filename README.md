@@ -118,7 +118,7 @@ The API will listen on `http://localhost:9696` (interactive Swagger UI available
 
 ## 8. Running with Docker
 
-Build the container image and expose port `9696`:
+Open new terminal and type command below:
 
 ```bash
 docker build -t bike-sharing-demand .
